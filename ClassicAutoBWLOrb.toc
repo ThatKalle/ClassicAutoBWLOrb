@@ -1,0 +1,8 @@
+## Interface: 11304
+## Title: ClassicAutoBWLOrb
+## Author: ThatKalle
+## Notes: Automatically enter Blackwing Lair when interacting with the Orb of Command.
+## Version: 1.0.0
+## DefaultState: enabled
+
+ClassicAutoBWLOrb.lua
