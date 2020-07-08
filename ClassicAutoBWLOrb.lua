@@ -2,7 +2,7 @@
 -- Name: ClassicAutoBWLOrb
 -- Author: ThatKalle
 -- Description: Automatically enter Blackwing Lair when interacting with the Orb of Command.
--- Version: 1.0.0
+-- Version: 1.0.1
 
 local E = CreateFrame("Frame")
 E:RegisterEvent("GOSSIP_SHOW")
